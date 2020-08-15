@@ -1,0 +1,353 @@
+1.2.840.10008.1.1,VerificationSOPClass,SOPClass,Verification SOP Class
+1.2.840.10008.1.2,ImplicitVRLittleEndian,TransferSyntax,Implicit VR Little Endian
+1.2.840.10008.1.2.1,ExplicitVRLittleEndian,TransferSyntax,Explicit VR Little Endian
+1.2.840.10008.1.2.1.99,DeflatedExplicitVRLittleEndian,TransferSyntax,Deflated Explicit VR Little Endian
+1.2.840.10008.1.2.2,ExplicitVRBigEndianRetired,TransferSyntax,Explicit VR Big Endian (Retired)
+1.2.840.10008.1.2.4.50,JPEGBaseline1,TransferSyntax,JPEG Baseline (Process 1)
+1.2.840.10008.1.2.4.51,JPEGExtended24,TransferSyntax,JPEG Extended (Process 2 & 4)
+1.2.840.10008.1.2.4.52,JPEGExtended35Retired,TransferSyntax,JPEG Extended (Process 3 & 5) (Retired)
+1.2.840.10008.1.2.4.53,JPEGSpectralSelectionNonHierarchical68Retired,TransferSyntax,JPEG Spectral Selection, Non-Hierarchical (Process 6 & 8) (Retired)
+1.2.840.10008.1.2.4.54,JPEGSpectralSelectionNonHierarchical79Retired,TransferSyntax,JPEG Spectral Selection, Non-Hierarchical (Process 7 & 9) (Retired)
+1.2.840.10008.1.2.4.55,JPEGFullProgressionNonHierarchical1012Retired,TransferSyntax,JPEG Full Progression, Non-Hierarchical (Process 10 & 12) (Retired)
+1.2.840.10008.1.2.4.56,JPEGFullProgressionNonHierarchical1113Retired,TransferSyntax,JPEG Full Progression, Non-Hierarchical (Process 11 & 13) (Retired)
+1.2.840.10008.1.2.4.57,JPEGLosslessNonHierarchical14,TransferSyntax,JPEG Lossless, Non-Hierarchical (Process 14)
+1.2.840.10008.1.2.4.58,JPEGLosslessNonHierarchical15Retired,TransferSyntax,JPEG Lossless, Non-Hierarchical (Process 15) (Retired)
+1.2.840.10008.1.2.4.59,JPEGExtendedHierarchical1618Retired,TransferSyntax,JPEG Extended, Hierarchical (Process 16 & 18) (Retired)
+1.2.840.10008.1.2.4.60,JPEGExtendedHierarchical1719Retired,TransferSyntax,JPEG Extended, Hierarchical (Process 17 & 19) (Retired)
+1.2.840.10008.1.2.4.61,JPEGSpectralSelectionHierarchical2022Retired,TransferSyntax,JPEG Spectral Selection, Hierarchical (Process 20 & 22) (Retired)
+1.2.840.10008.1.2.4.62,JPEGSpectralSelectionHierarchical2123Retired,TransferSyntax,JPEG Spectral Selection, Hierarchical (Process 21 & 23) (Retired)
+1.2.840.10008.1.2.4.63,JPEGFullProgressionHierarchical2426Retired,TransferSyntax,JPEG Full Progression, Hierarchical (Process 24 & 26) (Retired)
+1.2.840.10008.1.2.4.64,JPEGFullProgressionHierarchical2527Retired,TransferSyntax,JPEG Full Progression, Hierarchical (Process 25 & 27) (Retired)
+1.2.840.10008.1.2.4.65,JPEGLosslessHierarchical28Retired,TransferSyntax,JPEG Lossless, Hierarchical (Process 28) (Retired)
+1.2.840.10008.1.2.4.66,JPEGLosslessHierarchical29Retired,TransferSyntax,JPEG Lossless, Hierarchical (Process 29) (Retired)
+1.2.840.10008.1.2.4.70,JPEGLossless,TransferSyntax,JPEG Lossless, Non-Hierarchical, First-Order Prediction (Process 14 [Selection Value 1])
+1.2.840.10008.1.2.4.80,JPEGLSLossless,TransferSyntax,JPEG-LS Lossless Image Compression
+1.2.840.10008.1.2.4.81,JPEGLSLossyNearLossless,TransferSyntax,JPEG-LS Lossy (Near-Lossless) Image Compression
+1.2.840.10008.1.2.4.90,JPEG2000LosslessOnly,TransferSyntax,JPEG 2000 Image Compression (Lossless Only)
+1.2.840.10008.1.2.4.91,JPEG2000,TransferSyntax,JPEG 2000 Image Compression
+1.2.840.10008.1.2.4.92,JPEG2000Part2MultiComponentLosslessOnly,TransferSyntax,JPEG 2000 Part 2 Multi-component Image Compression (Lossless Only)
+1.2.840.10008.1.2.4.93,JPEG2000Part2MultiComponent,TransferSyntax,JPEG 2000 Part 2 Multi-component Image Compression
+1.2.840.10008.1.2.4.94,JPIPReferenced,TransferSyntax,JPIP Referenced
+1.2.840.10008.1.2.4.95,JPIPReferencedDeflate,TransferSyntax,JPIP Referenced Deflate
+1.2.840.10008.1.2.4.100,MPEG2,TransferSyntax,MPEG2 Main Profile @ Main Level
+1.2.840.10008.1.2.4.101,MPEG2MainProfileHighLevel,TransferSyntax,MPEG2 Main Profile @ High Level
+1.2.840.10008.1.2.4.102,MPEG4AVCH264HighProfileLevel41,TransferSyntax,MPEG-4 AVC/H.264 High Profile / Level 4.1
+1.2.840.10008.1.2.4.103,MPEG4AVCH264BDCompatibleHighProfileLevel41,TransferSyntax,MPEG-4 AVC/H.264 BD-compatible High Profile / Level 4.1
+1.2.840.10008.1.2.5,RLELossless,TransferSyntax,RLE Lossless
+1.2.840.10008.1.2.6.1,RFC2557MIMEEncapsulation,TransferSyntax,RFC 2557 MIME encapsulation
+1.2.840.10008.1.2.6.2,XMLEncoding,TransferSyntax,XML Encoding
+1.2.840.10008.1.3.10,MediaStorageDirectoryStorage,SOPClass,Media Storage Directory Storage
+1.2.840.10008.1.4.1.1,TalairachBrainAtlasFrameOfReference,WellKnownFrameOfReference,Talairach Brain Atlas Frame of Reference
+1.2.840.10008.1.4.1.2,SPM2T1FrameOfReference,WellKnownFrameOfReference,SPM2 T1 Frame of Reference
+1.2.840.10008.1.4.1.3,SPM2T2FrameOfReference,WellKnownFrameOfReference,SPM2 T2 Frame of Reference
+1.2.840.10008.1.4.1.4,SPM2PDFrameOfReference,WellKnownFrameOfReference,SPM2 PD Frame of Reference
+1.2.840.10008.1.4.1.5,SPM2EPIFrameOfReference,WellKnownFrameOfReference,SPM2 EPI Frame of Reference
+1.2.840.10008.1.4.1.6,SPM2FILT1FrameOfReference,WellKnownFrameOfReference,SPM2 FIL T1 Frame of Reference
+1.2.840.10008.1.4.1.7,SPM2PETFrameOfReference,WellKnownFrameOfReference,SPM2 PET Frame of Reference
+1.2.840.10008.1.4.1.8,SPM2TRANSMFrameOfReference,WellKnownFrameOfReference,SPM2 TRANSM Frame of Reference
+1.2.840.10008.1.4.1.9,SPM2SPECTFrameOfReference,WellKnownFrameOfReference,SPM2 SPECT Frame of Reference
+1.2.840.10008.1.4.1.10,SPM2GRAYFrameOfReference,WellKnownFrameOfReference,SPM2 GRAY Frame of Reference
+1.2.840.10008.1.4.1.11,SPM2WHITEFrameOfReference,WellKnownFrameOfReference,SPM2 WHITE Frame of Reference
+1.2.840.10008.1.4.1.12,SPM2CSFFrameOfReference,WellKnownFrameOfReference,SPM2 CSF Frame of Reference
+1.2.840.10008.1.4.1.13,SPM2BRAINMASKFrameOfReference,WellKnownFrameOfReference,SPM2 BRAINMASK Frame of Reference
+1.2.840.10008.1.4.1.14,SPM2AVG305T1FrameOfReference,WellKnownFrameOfReference,SPM2 AVG305T1 Frame of Reference
+1.2.840.10008.1.4.1.15,SPM2AVG152T1FrameOfReference,WellKnownFrameOfReference,SPM2 AVG152T1 Frame of Reference
+1.2.840.10008.1.4.1.16,SPM2AVG152T2FrameOfReference,WellKnownFrameOfReference,SPM2 AVG152T2 Frame of Reference
+1.2.840.10008.1.4.1.17,SPM2AVG152PDFrameOfReference,WellKnownFrameOfReference,SPM2 AVG152PD Frame of Reference
+1.2.840.10008.1.4.1.18,SPM2SINGLESUBJT1FrameOfReference,WellKnownFrameOfReference,SPM2 SINGLESUBJT1 Frame of Reference
+1.2.840.10008.1.4.2.1,ICBM452T1FrameOfReference,WellKnownFrameOfReference,ICBM 452 T1 Frame of Reference
+1.2.840.10008.1.4.2.2,ICBMSingleSubjectMRIFrameOfReference,WellKnownFrameOfReference,ICBM Single Subject MRI Frame of Reference
+1.2.840.10008.1.5.1,HotIronColorPaletteSOPInstance,WellKnownSOPInstance,Hot Iron Color Palette SOP Instance
+1.2.840.10008.1.5.2,PETColorPaletteSOPInstance,WellKnownSOPInstance,PET Color Palette SOP Instance
+1.2.840.10008.1.5.3,HotMetalBlueColorPaletteSOPInstance,WellKnownSOPInstance,Hot Metal Blue Color Palette SOP Instance
+1.2.840.10008.1.5.4,PET20StepColorPaletteSOPInstance,WellKnownSOPInstance,PET 20 Step Color Palette SOP Instance
+1.2.840.10008.1.9,BasicStudyContentNotificationSOPClassRetired,SOPClass,Basic Study Content Notification SOP Class (Retired)
+1.2.840.10008.1.20.1,StorageCommitmentPushModelSOPClass,SOPClass,Storage Commitment Push Model SOP Class
+1.2.840.10008.1.20.1.1,StorageCommitmentPushModelSOPInstance,WellKnownSOPInstance,Storage Commitment Push Model SOP Instance
+1.2.840.10008.1.20.2,StorageCommitmentPullModelSOPClassRetired,SOPClass,Storage Commitment Pull Model SOP Class (Retired)
+1.2.840.10008.1.20.2.1,StorageCommitmentPullModelSOPInstanceRetired,WellKnownSOPInstance,Storage Commitment Pull Model SOP Instance (Retired)
+1.2.840.10008.1.40,ProceduralEventLoggingSOPClass,SOPClass,Procedural Event Logging SOP Class
+1.2.840.10008.1.40.1,ProceduralEventLoggingSOPInstance,WellKnownSOPInstance,Procedural Event Logging SOP Instance
+1.2.840.10008.1.42,SubstanceAdministrationLoggingSOPClass,SOPClass,Substance Administration Logging SOP Class
+1.2.840.10008.1.42.1,SubstanceAdministrationLoggingSOPInstance,WellKnownSOPInstance,Substance Administration Logging SOP Instance
+1.2.840.10008.2.6.1,DICOMUIDRegistry,DICOMUIDsAsACodingScheme,DICOM UID Registry
+1.2.840.10008.2.16.4,DICOMControlledTerminology,CodingScheme,DICOM Controlled Terminology
+1.2.840.10008.3.1.1.1,DICOMApplicationContextName,ApplicationContextName,DICOM Application Context Name
+1.2.840.10008.3.1.2.1.1,DetachedPatientManagementSOPClassRetired,SOPClass,Detached Patient Management SOP Class (Retired)
+1.2.840.10008.3.1.2.1.4,DetachedPatientManagementMetaSOPClassRetired,MetaSOPClass,Detached Patient Management Meta SOP Class (Retired)
+1.2.840.10008.3.1.2.2.1,DetachedVisitManagementSOPClassRetired,SOPClass,Detached Visit Management SOP Class (Retired)
+1.2.840.10008.3.1.2.3.1,DetachedStudyManagementSOPClassRetired,SOPClass,Detached Study Management SOP Class (Retired)
+1.2.840.10008.3.1.2.3.2,StudyComponentManagementSOPClassRetired,SOPClass,Study Component Management SOP Class (Retired)
+1.2.840.10008.3.1.2.3.3,ModalityPerformedProcedureStepSOPClass,SOPClass,Modality Performed Procedure Step SOP Class
+1.2.840.10008.3.1.2.3.4,ModalityPerformedProcedureStepRetrieveSOPClass,SOPClass,Modality Performed Procedure Step Retrieve SOP Class
+1.2.840.10008.3.1.2.3.5,ModalityPerformedProcedureStepNotificationSOPClass,SOPClass,Modality Performed Procedure Step Notification SOP Class
+1.2.840.10008.3.1.2.5.1,DetachedResultsManagementSOPClassRetired,SOPClass,Detached Results Management SOP Class (Retired)
+1.2.840.10008.3.1.2.5.4,DetachedResultsManagementMetaSOPClassRetired,MetaSOPClass,Detached Results Management Meta SOP Class (Retired)
+1.2.840.10008.3.1.2.5.5,DetachedStudyManagementMetaSOPClassRetired,MetaSOPClass,Detached Study Management Meta SOP Class (Retired)
+1.2.840.10008.3.1.2.6.1,DetachedInterpretationManagementSOPClassRetired,SOPClass,Detached Interpretation Management SOP Class (Retired)
+1.2.840.10008.4.2,StorageServiceClass,ServiceClass,Storage Service Class
+1.2.840.10008.5.1.1.1,BasicFilmSessionSOPClass,SOPClass,Basic Film Session SOP Class
+1.2.840.10008.5.1.1.2,BasicFilmBoxSOPClass,SOPClass,Basic Film Box SOP Class
+1.2.840.10008.5.1.1.4,BasicGrayscaleImageBoxSOPClass,SOPClass,Basic Grayscale Image Box SOP Class
+1.2.840.10008.5.1.1.4.1,BasicColorImageBoxSOPClass,SOPClass,Basic Color Image Box SOP Class
+1.2.840.10008.5.1.1.4.2,ReferencedImageBoxSOPClassRetired,SOPClass,Referenced Image Box SOP Class (Retired)
+1.2.840.10008.5.1.1.9,BasicGrayscalePrintManagementMetaSOPClass,MetaSOPClass,Basic Grayscale Print Management Meta SOP Class
+1.2.840.10008.5.1.1.9.1,ReferencedGrayscalePrintManagementMetaSOPClassRetired,MetaSOPClass,Referenced Grayscale Print Management Meta SOP Class (Retired)
+1.2.840.10008.5.1.1.14,PrintJobSOPClass,SOPClass,Print Job SOP Class
+1.2.840.10008.5.1.1.15,BasicAnnotationBoxSOPClass,SOPClass,Basic Annotation Box SOP Class
+1.2.840.10008.5.1.1.16,PrinterSOPClass,SOPClass,Printer SOP Class
+1.2.840.10008.5.1.1.16.376,PrinterConfigurationRetrievalSOPClass,SOPClass,Printer Configuration Retrieval SOP Class
+1.2.840.10008.5.1.1.17,PrinterSOPInstance,WellKnownPrinterSOPInstance,Printer SOP Instance
+1.2.840.10008.5.1.1.17.376,PrinterConfigurationRetrievalSOPInstance,WellKnownPrinterSOPInstance,Printer Configuration Retrieval SOP Instance
+1.2.840.10008.5.1.1.18,BasicColorPrintManagementMetaSOPClass,MetaSOPClass,Basic Color Print Management Meta SOP Class
+1.2.840.10008.5.1.1.18.1,ReferencedColorPrintManagementMetaSOPClassRetired,MetaSOPClass,Referenced Color Print Management Meta SOP Class (Retired)
+1.2.840.10008.5.1.1.22,VOILUTBoxSOPClass,SOPClass,VOI LUT Box SOP Class
+1.2.840.10008.5.1.1.23,PresentationLUTSOPClass,SOPClass,Presentation LUT SOP Class
+1.2.840.10008.5.1.1.24,ImageOverlayBoxSOPClassRetired,SOPClass,Image Overlay Box SOP Class (Retired)
+1.2.840.10008.5.1.1.24.1,BasicPrintImageOverlayBoxSOPClassRetired,SOPClass,Basic Print Image Overlay Box SOP Class (Retired)
+1.2.840.10008.5.1.1.25,PrintQueueSOPInstanceRetired,WellKnownPrintQueueSOPInstance,Print Queue SOP Instance (Retired)
+1.2.840.10008.5.1.1.26,PrintQueueManagementSOPClassRetired,SOPClass,Print Queue Management SOP Class (Retired)
+1.2.840.10008.5.1.1.27,StoredPrintStorageSOPClassRetired,SOPClass,Stored Print Storage SOP Class (Retired)
+1.2.840.10008.5.1.1.29,HardcopyGrayscaleImageStorageSOPClassRetired,SOPClass,Hardcopy Grayscale Image Storage SOP Class (Retired)
+1.2.840.10008.5.1.1.30,HardcopyColorImageStorageSOPClassRetired,SOPClass,Hardcopy Color Image Storage SOP Class (Retired)
+1.2.840.10008.5.1.1.31,PullPrintRequestSOPClassRetired,SOPClass,Pull Print Request SOP Class (Retired)
+1.2.840.10008.5.1.1.32,PullStoredPrintManagementMetaSOPClassRetired,MetaSOPClass,Pull Stored Print Management Meta SOP Class (Retired)
+1.2.840.10008.5.1.1.33,MediaCreationManagementSOPClassUID,SOPClass,Media Creation Management SOP Class UID
+1.2.840.10008.5.1.1.40,DisplaySystemSOPClass,SOPClass,Display System SOP Class
+1.2.840.10008.5.1.1.40.1,DisplaySystemSOPInstance,WellKnownSOPInstance,Display System SOP Instance
+1.2.840.10008.5.1.4.1.1.1,ComputedRadiographyImageStorage,SOPClass,Computed Radiography Image Storage
+1.2.840.10008.5.1.4.1.1.1.1,DigitalXRayImageStorageForPresentation,SOPClass,Digital X-Ray Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.1.1.1,DigitalXRayImageStorageForProcessing,SOPClass,Digital X-Ray Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.1.2,DigitalMammographyXRayImageStorageForPresentation,SOPClass,Digital Mammography X-Ray Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.1.2.1,DigitalMammographyXRayImageStorageForProcessing,SOPClass,Digital Mammography X-Ray Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.1.3,DigitalIntraOralXRayImageStorageForPresentation,SOPClass,Digital Intra-Oral X-Ray Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.1.3.1,DigitalIntraOralXRayImageStorageForProcessing,SOPClass,Digital Intra-Oral X-Ray Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.2,CTImageStorage,SOPClass,CT Image Storage
+1.2.840.10008.5.1.4.1.1.2.1,EnhancedCTImageStorage,SOPClass,Enhanced CT Image Storage
+1.2.840.10008.5.1.4.1.1.2.2,LegacyConvertedEnhancedCTImageStorage,SOPClass,Legacy Converted Enhanced CT Image Storage
+1.2.840.10008.5.1.4.1.1.3,UltrasoundMultiFrameImageStorageRetired,SOPClass,Ultrasound Multi-frame Image Storage (Retired)
+1.2.840.10008.5.1.4.1.1.3.1,UltrasoundMultiFrameImageStorage,SOPClass,Ultrasound Multi-frame Image Storage
+1.2.840.10008.5.1.4.1.1.4,MRImageStorage,SOPClass,MR Image Storage
+1.2.840.10008.5.1.4.1.1.4.1,EnhancedMRImageStorage,SOPClass,Enhanced MR Image Storage
+1.2.840.10008.5.1.4.1.1.4.2,MRSpectroscopyStorage,SOPClass,MR Spectroscopy Storage
+1.2.840.10008.5.1.4.1.1.4.3,EnhancedMRColorImageStorage,SOPClass,Enhanced MR Color Image Storage
+1.2.840.10008.5.1.4.1.1.4.4,LegacyConvertedEnhancedMRImageStorage,SOPClass,Legacy Converted Enhanced MR Image Storage
+1.2.840.10008.5.1.4.1.1.5,NuclearMedicineImageStorageRetired,SOPClass,Nuclear Medicine Image Storage (Retired)
+1.2.840.10008.5.1.4.1.1.6,UltrasoundImageStorageRetired,SOPClass,Ultrasound Image Storage (Retired)
+1.2.840.10008.5.1.4.1.1.6.1,UltrasoundImageStorage,SOPClass,Ultrasound Image Storage
+1.2.840.10008.5.1.4.1.1.6.2,EnhancedUSVolumeStorage,SOPClass,Enhanced US Volume Storage
+1.2.840.10008.5.1.4.1.1.7,SecondaryCaptureImageStorage,SOPClass,Secondary Capture Image Storage
+1.2.840.10008.5.1.4.1.1.7.1,MultiFrameSingleBitSecondaryCaptureImageStorage,SOPClass,Multi-frame Single Bit Secondary Capture Image Storage
+1.2.840.10008.5.1.4.1.1.7.2,MultiFrameGrayscaleByteSecondaryCaptureImageStorage,SOPClass,Multi-frame Grayscale Byte Secondary Capture Image Storage
+1.2.840.10008.5.1.4.1.1.7.3,MultiFrameGrayscaleWordSecondaryCaptureImageStorage,SOPClass,Multi-frame Grayscale Word Secondary Capture Image Storage
+1.2.840.10008.5.1.4.1.1.7.4,MultiFrameTrueColorSecondaryCaptureImageStorage,SOPClass,Multi-frame True Color Secondary Capture Image Storage
+1.2.840.10008.5.1.4.1.1.8,StandaloneOverlayStorageRetired,SOPClass,Standalone Overlay Storage (Retired)
+1.2.840.10008.5.1.4.1.1.9,StandaloneCurveStorageRetired,SOPClass,Standalone Curve Storage (Retired)
+1.2.840.10008.5.1.4.1.1.9.1,WaveformStorageTrialRetired,SOPClass,Waveform Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.9.1.1,TwelveLeadECGWaveformStorage,SOPClass,12-lead ECG Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.1.2,GeneralECGWaveformStorage,SOPClass,General ECG Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.1.3,AmbulatoryECGWaveformStorage,SOPClass,Ambulatory ECG Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.2.1,HemodynamicWaveformStorage,SOPClass,Hemodynamic Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.3.1,CardiacElectrophysiologyWaveformStorage,SOPClass,Cardiac Electrophysiology Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.4.1,BasicVoiceAudioWaveformStorage,SOPClass,Basic Voice Audio Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.4.2,GeneralAudioWaveformStorage,SOPClass,General Audio Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.5.1,ArterialPulseWaveformStorage,SOPClass,Arterial Pulse Waveform Storage
+1.2.840.10008.5.1.4.1.1.9.6.1,RespiratoryWaveformStorage,SOPClass,Respiratory Waveform Storage
+1.2.840.10008.5.1.4.1.1.10,StandaloneModalityLUTStorageRetired,SOPClass,Standalone Modality LUT Storage (Retired)
+1.2.840.10008.5.1.4.1.1.11,StandaloneVOILUTStorageRetired,SOPClass,Standalone VOI LUT Storage (Retired)
+1.2.840.10008.5.1.4.1.1.11.1,GrayscaleSoftcopyPresentationStateStorageSOPClass,SOPClass,Grayscale Softcopy Presentation State Storage SOP Class
+1.2.840.10008.5.1.4.1.1.11.2,ColorSoftcopyPresentationStateStorageSOPClass,SOPClass,Color Softcopy Presentation State Storage SOP Class
+1.2.840.10008.5.1.4.1.1.11.3,PseudoColorSoftcopyPresentationStateStorageSOPClass,SOPClass,Pseudo-Color Softcopy Presentation State Storage SOP Class
+1.2.840.10008.5.1.4.1.1.11.4,BlendingSoftcopyPresentationStateStorageSOPClass,SOPClass,Blending Softcopy Presentation State Storage SOP Class
+1.2.840.10008.5.1.4.1.1.11.5,XAXRFGrayscaleSoftcopyPresentationStateStorage,SOPClass,XA/XRF Grayscale Softcopy Presentation State Storage
+1.2.840.10008.5.1.4.1.1.12.1,XRayAngiographicImageStorage,SOPClass,X-Ray Angiographic Image Storage
+1.2.840.10008.5.1.4.1.1.12.1.1,EnhancedXAImageStorage,SOPClass,Enhanced XA Image Storage
+1.2.840.10008.5.1.4.1.1.12.2,XRayRadiofluoroscopicImageStorage,SOPClass,X-Ray Radiofluoroscopic Image Storage
+1.2.840.10008.5.1.4.1.1.12.2.1,EnhancedXRFImageStorage,SOPClass,Enhanced XRF Image Storage
+1.2.840.10008.5.1.4.1.1.12.3,XRayAngiographicBiPlaneImageStorageRetired,SOPClass,X-Ray Angiographic Bi-Plane Image Storage (Retired)
+1.2.840.10008.5.1.4.1.1.13.1.1,XRay3DAngiographicImageStorage,SOPClass,X-Ray 3D Angiographic Image Storage
+1.2.840.10008.5.1.4.1.1.13.1.2,XRay3DCraniofacialImageStorage,SOPClass,X-Ray 3D Craniofacial Image Storage
+1.2.840.10008.5.1.4.1.1.13.1.3,BreastTomosynthesisImageStorage,SOPClass,Breast Tomosynthesis Image Storage
+1.2.840.10008.5.1.4.1.1.13.1.4,BreastProjectionXRayImageStorageForPresentation,SOPClass,Breast Projection X-Ray Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.13.1.5,BreastProjectionXRayImageStorageForProcessing,SOPClass,Breast Projection X-Ray Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.14.1,IntravascularOpticalCoherenceTomographyImageStorageForPresentation,SOPClass,Intravascular Optical Coherence Tomography Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.14.2,IntravascularOpticalCoherenceTomographyImageStorageForProcessing,SOPClass,Intravascular Optical Coherence Tomography Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.20,NuclearMedicineImageStorage,SOPClass,Nuclear Medicine Image Storage
+1.2.840.10008.5.1.4.1.1.66,RawDataStorage,SOPClass,Raw Data Storage
+1.2.840.10008.5.1.4.1.1.66.1,SpatialRegistrationStorage,SOPClass,Spatial Registration Storage
+1.2.840.10008.5.1.4.1.1.66.2,SpatialFiducialsStorage,SOPClass,Spatial Fiducials Storage
+1.2.840.10008.5.1.4.1.1.66.3,DeformableSpatialRegistrationStorage,SOPClass,Deformable Spatial Registration Storage
+1.2.840.10008.5.1.4.1.1.66.4,SegmentationStorage,SOPClass,Segmentation Storage
+1.2.840.10008.5.1.4.1.1.66.5,SurfaceSegmentationStorage,SOPClass,Surface Segmentation Storage
+1.2.840.10008.5.1.4.1.1.67,RealWorldValueMappingStorage,SOPClass,Real World Value Mapping Storage
+1.2.840.10008.5.1.4.1.1.68.1,SurfaceScanMeshStorage,SOPClass,Surface Scan Mesh Storage
+1.2.840.10008.5.1.4.1.1.68.2,SurfaceScanPointCloudStorage,SOPClass,Surface Scan Point Cloud Storage
+1.2.840.10008.5.1.4.1.1.77.1,VLImageStorageTrialRetired,SOPClass,VL Image Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.77.2,VLMultiFrameImageStorageTrialRetired,SOPClass,VL Multi-frame Image Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.77.1.1,VLEndoscopicImageStorage,SOPClass,VL Endoscopic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.1.1,VideoEndoscopicImageStorage,SOPClass,Video Endoscopic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.2,VLMicroscopicImageStorage,SOPClass,VL Microscopic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.2.1,VideoMicroscopicImageStorage,SOPClass,Video Microscopic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.3,VLSlideCoordinatesMicroscopicImageStorage,SOPClass,VL Slide-Coordinates Microscopic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.4,VLPhotographicImageStorage,SOPClass,VL Photographic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.4.1,VideoPhotographicImageStorage,SOPClass,Video Photographic Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.5.1,OphthalmicPhotography8BitImageStorage,SOPClass,Ophthalmic Photography 8 Bit Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.5.2,OphthalmicPhotography16BitImageStorage,SOPClass,Ophthalmic Photography 16 Bit Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.5.3,StereometricRelationshipStorage,SOPClass,Stereometric Relationship Storage
+1.2.840.10008.5.1.4.1.1.77.1.5.4,OphthalmicTomographyImageStorage,SOPClass,Ophthalmic Tomography Image Storage
+1.2.840.10008.5.1.4.1.1.77.1.6,VLWholeSlideMicroscopyImageStorage,SOPClass,VL Whole Slide Microscopy Image Storage
+1.2.840.10008.5.1.4.1.1.78.1,LensometryMeasurementsStorage,SOPClass,Lensometry Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.2,AutorefractionMeasurementsStorage,SOPClass,Autorefraction Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.3,KeratometryMeasurementsStorage,SOPClass,Keratometry Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.4,SubjectiveRefractionMeasurementsStorage,SOPClass,Subjective Refraction Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.5,VisualAcuityMeasurementsStorage,SOPClass,Visual Acuity Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.6,SpectaclePrescriptionReportStorage,SOPClass,Spectacle Prescription Report Storage
+1.2.840.10008.5.1.4.1.1.78.7,OphthalmicAxialMeasurementsStorage,SOPClass,Ophthalmic Axial Measurements Storage
+1.2.840.10008.5.1.4.1.1.78.8,IntraocularLensCalculationsStorage,SOPClass,Intraocular Lens Calculations Storage
+1.2.840.10008.5.1.4.1.1.79.1,MacularGridThicknessAndVolumeReportStorage,SOPClass,Macular Grid Thickness and Volume Report Storage
+1.2.840.10008.5.1.4.1.1.80.1,OphthalmicVisualFieldStaticPerimetryMeasurementsStorage,SOPClass,Ophthalmic Visual Field Static Perimetry Measurements Storage
+1.2.840.10008.5.1.4.1.1.81.1,OphthalmicThicknessMapStorage,SOPClass,Ophthalmic Thickness Map Storage
+1.2.840.10008.5.1.4.1.1.82.1,CornealTopographyMapStorage,SOPClass,Corneal Topography Map Storage
+1.2.840.10008.5.1.4.1.1.88.1,TextSRStorageTrialRetired,SOPClass,Text SR Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.88.2,AudioSRStorageTrialRetired,SOPClass,Audio SR Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.88.3,DetailSRStorageTrialRetired,SOPClass,Detail SR Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.88.4,ComprehensiveSRStorageTrialRetired,SOPClass,Comprehensive SR Storage - Trial (Retired)
+1.2.840.10008.5.1.4.1.1.88.11,BasicTextSRStorage,SOPClass,Basic Text SR Storage
+1.2.840.10008.5.1.4.1.1.88.22,EnhancedSRStorage,SOPClass,Enhanced SR Storage
+1.2.840.10008.5.1.4.1.1.88.33,ComprehensiveSRStorage,SOPClass,Comprehensive SR Storage
+1.2.840.10008.5.1.4.1.1.88.34,Comprehensive3DSRStorage,SOPClass,Comprehensive 3D SR Storage
+1.2.840.10008.5.1.4.1.1.88.40,ProcedureLogStorage,SOPClass,Procedure Log Storage
+1.2.840.10008.5.1.4.1.1.88.50,MammographyCADSRStorage,SOPClass,Mammography CAD SR Storage
+1.2.840.10008.5.1.4.1.1.88.59,KeyObjectSelectionDocumentStorage,SOPClass,Key Object Selection Document Storage
+1.2.840.10008.5.1.4.1.1.88.65,ChestCADSRStorage,SOPClass,Chest CAD SR Storage
+1.2.840.10008.5.1.4.1.1.88.67,XRayRadiationDoseSRStorage,SOPClass,X-Ray Radiation Dose SR Storage
+1.2.840.10008.5.1.4.1.1.88.68,RadiopharmaceuticalRadiationDoseSRStorage,SOPClass,Radiopharmaceutical Radiation Dose SR Storage
+1.2.840.10008.5.1.4.1.1.88.69,ColonCADSRStorage,SOPClass,Colon CAD SR Storage
+1.2.840.10008.5.1.4.1.1.88.70,ImplantationPlanSRStorage,SOPClass,Implantation Plan SR Storage
+1.2.840.10008.5.1.4.1.1.104.1,EncapsulatedPDFStorage,SOPClass,Encapsulated PDF Storage
+1.2.840.10008.5.1.4.1.1.104.2,EncapsulatedCDAStorage,SOPClass,Encapsulated CDA Storage
+1.2.840.10008.5.1.4.1.1.128,PositronEmissionTomographyImageStorage,SOPClass,Positron Emission Tomography Image Storage
+1.2.840.10008.5.1.4.1.1.128.1,LegacyConvertedEnhancedPETImageStorage,SOPClass,Legacy Converted Enhanced PET Image Storage
+1.2.840.10008.5.1.4.1.1.129,StandalonePETCurveStorageRetired,SOPClass,Standalone PET Curve Storage (Retired)
+1.2.840.10008.5.1.4.1.1.130,EnhancedPETImageStorage,SOPClass,Enhanced PET Image Storage
+1.2.840.10008.5.1.4.1.1.131,BasicStructuredDisplayStorage,SOPClass,Basic Structured Display Storage
+1.2.840.10008.5.1.4.1.1.481.1,RTImageStorage,SOPClass,RT Image Storage
+1.2.840.10008.5.1.4.1.1.481.2,RTDoseStorage,SOPClass,RT Dose Storage
+1.2.840.10008.5.1.4.1.1.481.3,RTStructureSetStorage,SOPClass,RT Structure Set Storage
+1.2.840.10008.5.1.4.1.1.481.4,RTBeamsTreatmentRecordStorage,SOPClass,RT Beams Treatment Record Storage
+1.2.840.10008.5.1.4.1.1.481.5,RTPlanStorage,SOPClass,RT Plan Storage
+1.2.840.10008.5.1.4.1.1.481.6,RTBrachyTreatmentRecordStorage,SOPClass,RT Brachy Treatment Record Storage
+1.2.840.10008.5.1.4.1.1.481.7,RTTreatmentSummaryRecordStorage,SOPClass,RT Treatment Summary Record Storage
+1.2.840.10008.5.1.4.1.1.481.8,RTIonPlanStorage,SOPClass,RT Ion Plan Storage
+1.2.840.10008.5.1.4.1.1.481.9,RTIonBeamsTreatmentRecordStorage,SOPClass,RT Ion Beams Treatment Record Storage
+1.2.840.10008.5.1.4.1.1.501.1,DICOSCTImageStorage,SOPClass,DICOS CT Image Storage
+1.2.840.10008.5.1.4.1.1.501.2.1,DICOSDigitalXRayImageStorageForPresentation,SOPClass,DICOS Digital X-Ray Image Storage - For Presentation
+1.2.840.10008.5.1.4.1.1.501.2.2,DICOSDigitalXRayImageStorageForProcessing,SOPClass,DICOS Digital X-Ray Image Storage - For Processing
+1.2.840.10008.5.1.4.1.1.501.3,DICOSThreatDetectionReportStorage,SOPClass,DICOS Threat Detection Report Storage
+1.2.840.10008.5.1.4.1.1.501.4,DICOS2DAITStorage,SOPClass,DICOS 2D AIT Storage
+1.2.840.10008.5.1.4.1.1.501.5,DICOS3DAITStorage,SOPClass,DICOS 3D AIT Storage
+1.2.840.10008.5.1.4.1.1.501.6,DICOSQuadrupoleResonanceQRStorage,SOPClass,DICOS Quadrupole Resonance (QR) Storage
+1.2.840.10008.5.1.4.1.1.601.1,EddyCurrentImageStorage,SOPClass,Eddy Current Image Storage
+1.2.840.10008.5.1.4.1.1.601.2,EddyCurrentMultiFrameImageStorage,SOPClass,Eddy Current Multi-frame Image Storage
+1.2.840.10008.5.1.4.1.2.1.1,PatientRootQueryRetrieveInformationModelFIND,SOPClass,Patient Root Query/Retrieve Information Model - FIND
+1.2.840.10008.5.1.4.1.2.1.2,PatientRootQueryRetrieveInformationModelMOVE,SOPClass,Patient Root Query/Retrieve Information Model - MOVE
+1.2.840.10008.5.1.4.1.2.1.3,PatientRootQueryRetrieveInformationModelGET,SOPClass,Patient Root Query/Retrieve Information Model - GET
+1.2.840.10008.5.1.4.1.2.2.1,StudyRootQueryRetrieveInformationModelFIND,SOPClass,Study Root Query/Retrieve Information Model - FIND
+1.2.840.10008.5.1.4.1.2.2.2,StudyRootQueryRetrieveInformationModelMOVE,SOPClass,Study Root Query/Retrieve Information Model - MOVE
+1.2.840.10008.5.1.4.1.2.2.3,StudyRootQueryRetrieveInformationModelGET,SOPClass,Study Root Query/Retrieve Information Model - GET
+1.2.840.10008.5.1.4.1.2.3.1,PatientStudyOnlyQueryRetrieveInformationModelFINDRetired,SOPClass,Patient/Study Only Query/Retrieve Information Model - FIND (Retired)
+1.2.840.10008.5.1.4.1.2.3.2,PatientStudyOnlyQueryRetrieveInformationModelMOVERetired,SOPClass,Patient/Study Only Query/Retrieve Information Model - MOVE (Retired)
+1.2.840.10008.5.1.4.1.2.3.3,PatientStudyOnlyQueryRetrieveInformationModelGETRetired,SOPClass,Patient/Study Only Query/Retrieve Information Model - GET (Retired)
+1.2.840.10008.5.1.4.1.2.4.2,CompositeInstanceRootRetrieveMOVE,SOPClass,Composite Instance Root Retrieve - MOVE
+1.2.840.10008.5.1.4.1.2.4.3,CompositeInstanceRootRetrieveGET,SOPClass,Composite Instance Root Retrieve - GET
+1.2.840.10008.5.1.4.1.2.5.3,CompositeInstanceRetrieveWithoutBulkDataGET,SOPClass,Composite Instance Retrieve Without Bulk Data - GET
+1.2.840.10008.5.1.4.31,ModalityWorklistInformationModelFIND,SOPClass,Modality Worklist Information Model - FIND
+1.2.840.10008.5.1.4.32,GeneralPurposeWorklistManagementMetaSOPClassRetired,MetaSOPClass,General Purpose Worklist Management Meta SOP Class (Retired)
+1.2.840.10008.5.1.4.32.1,GeneralPurposeWorklistInformationModelFINDRetired,SOPClass,General Purpose Worklist Information Model - FIND (Retired)
+1.2.840.10008.5.1.4.32.2,GeneralPurposeScheduledProcedureStepSOPClassRetired,SOPClass,General Purpose Scheduled Procedure Step SOP Class (Retired)
+1.2.840.10008.5.1.4.32.3,GeneralPurposePerformedProcedureStepSOPClassRetired,SOPClass,General Purpose Performed Procedure Step SOP Class (Retired)
+1.2.840.10008.5.1.4.33,InstanceAvailabilityNotificationSOPClass,SOPClass,Instance Availability Notification SOP Class
+1.2.840.10008.5.1.4.34.1,RTBeamsDeliveryInstructionStorageTrialRetired,SOPClass,RT Beams Delivery Instruction Storage - Trial (Retired)
+1.2.840.10008.5.1.4.34.2,RTConventionalMachineVerificationTrialRetired,SOPClass,RT Conventional Machine Verification - Trial (Retired)
+1.2.840.10008.5.1.4.34.3,RTIonMachineVerificationTrialRetired,SOPClass,RT Ion Machine Verification - Trial (Retired)
+1.2.840.10008.5.1.4.34.4,UnifiedWorklistAndProcedureStepServiceClassTrialRetired,ServiceClass,Unified Worklist and Procedure Step Service Class - Trial (Retired)
+1.2.840.10008.5.1.4.34.4.1,UnifiedProcedureStepPushSOPClassTrialRetired,SOPClass,Unified Procedure Step - Push SOP Class - Trial (Retired)
+1.2.840.10008.5.1.4.34.4.2,UnifiedProcedureStepWatchSOPClassTrialRetired,SOPClass,Unified Procedure Step - Watch SOP Class - Trial (Retired)
+1.2.840.10008.5.1.4.34.4.3,UnifiedProcedureStepPullSOPClassTrialRetired,SOPClass,Unified Procedure Step - Pull SOP Class - Trial (Retired)
+1.2.840.10008.5.1.4.34.4.4,UnifiedProcedureStepEventSOPClassTrialRetired,SOPClass,Unified Procedure Step - Event SOP Class - Trial (Retired)
+1.2.840.10008.5.1.4.34.5,UnifiedWorklistAndProcedureStepSOPInstance,WellKnownSOPInstance,Unified Worklist and Procedure Step SOP Instance
+1.2.840.10008.5.1.4.34.6,UnifiedWorklistAndProcedureStepServiceClass,ServiceClass,Unified Worklist and Procedure Step Service Class
+1.2.840.10008.5.1.4.34.6.1,UnifiedProcedureStepPushSOPClass,SOPClass,Unified Procedure Step - Push SOP Class
+1.2.840.10008.5.1.4.34.6.2,UnifiedProcedureStepWatchSOPClass,SOPClass,Unified Procedure Step - Watch SOP Class
+1.2.840.10008.5.1.4.34.6.3,UnifiedProcedureStepPullSOPClass,SOPClass,Unified Procedure Step - Pull SOP Class
+1.2.840.10008.5.1.4.34.6.4,UnifiedProcedureStepEventSOPClass,SOPClass,Unified Procedure Step - Event SOP Class
+1.2.840.10008.5.1.4.34.7,RTBeamsDeliveryInstructionStorage,SOPClass,RT Beams Delivery Instruction Storage
+1.2.840.10008.5.1.4.34.8,RTConventionalMachineVerification,SOPClass,RT Conventional Machine Verification
+1.2.840.10008.5.1.4.34.9,RTIonMachineVerification,SOPClass,RT Ion Machine Verification
+1.2.840.10008.5.1.4.37.1,GeneralRelevantPatientInformationQuery,SOPClass,General Relevant Patient Information Query
+1.2.840.10008.5.1.4.37.2,BreastImagingRelevantPatientInformationQuery,SOPClass,Breast Imaging Relevant Patient Information Query
+1.2.840.10008.5.1.4.37.3,CardiacRelevantPatientInformationQuery,SOPClass,Cardiac Relevant Patient Information Query
+1.2.840.10008.5.1.4.38.1,HangingProtocolStorage,SOPClass,Hanging Protocol Storage
+1.2.840.10008.5.1.4.38.2,HangingProtocolInformationModelFIND,SOPClass,Hanging Protocol Information Model - FIND
+1.2.840.10008.5.1.4.38.3,HangingProtocolInformationModelMOVE,SOPClass,Hanging Protocol Information Model - MOVE
+1.2.840.10008.5.1.4.38.4,HangingProtocolInformationModelGET,SOPClass,Hanging Protocol Information Model - GET
+1.2.840.10008.5.1.4.39.1,ColorPaletteStorage,Transfer,Color Palette Storage
+1.2.840.10008.5.1.4.39.2,ColorPaletteInformationModelFIND,QueryRetrieve,Color Palette Information Model - FIND
+1.2.840.10008.5.1.4.39.3,ColorPaletteInformationModelMOVE,QueryRetrieve,Color Palette Information Model - MOVE
+1.2.840.10008.5.1.4.39.4,ColorPaletteInformationModelGET,QueryRetrieve,Color Palette Information Model - GET
+1.2.840.10008.5.1.4.41,ProductCharacteristicsQuerySOPClass,SOPClass,Product Characteristics Query SOP Class
+1.2.840.10008.5.1.4.42,SubstanceApprovalQuerySOPClass,SOPClass,Substance Approval Query SOP Class
+1.2.840.10008.5.1.4.43.1,GenericImplantTemplateStorage,SOPClass,Generic Implant Template Storage
+1.2.840.10008.5.1.4.43.2,GenericImplantTemplateInformationModelFIND,SOPClass,Generic Implant Template Information Model - FIND
+1.2.840.10008.5.1.4.43.3,GenericImplantTemplateInformationModelMOVE,SOPClass,Generic Implant Template Information Model - MOVE
+1.2.840.10008.5.1.4.43.4,GenericImplantTemplateInformationModelGET,SOPClass,Generic Implant Template Information Model - GET
+1.2.840.10008.5.1.4.44.1,ImplantAssemblyTemplateStorage,SOPClass,Implant Assembly Template Storage
+1.2.840.10008.5.1.4.44.2,ImplantAssemblyTemplateInformationModelFIND,SOPClass,Implant Assembly Template Information Model - FIND
+1.2.840.10008.5.1.4.44.3,ImplantAssemblyTemplateInformationModelMOVE,SOPClass,Implant Assembly Template Information Model - MOVE
+1.2.840.10008.5.1.4.44.4,ImplantAssemblyTemplateInformationModelGET,SOPClass,Implant Assembly Template Information Model - GET
+1.2.840.10008.5.1.4.45.1,ImplantTemplateGroupStorage,SOPClass,Implant Template Group Storage
+1.2.840.10008.5.1.4.45.2,ImplantTemplateGroupInformationModelFIND,SOPClass,Implant Template Group Information Model - FIND
+1.2.840.10008.5.1.4.45.3,ImplantTemplateGroupInformationModelMOVE,SOPClass,Implant Template Group Information Model - MOVE
+1.2.840.10008.5.1.4.45.4,ImplantTemplateGroupInformationModelGET,SOPClass,Implant Template Group Information Model - GET
+1.2.840.10008.7.1.1,NativeDICOMModel,ApplicationHostingModel,Native DICOM Model
+1.2.840.10008.7.1.2,AbstractMultiDimensionalImageModel,ApplicationHostingModel,Abstract Multi-Dimensional Image Model
+1.2.840.10008.15.0.3.1,dicomDeviceName,LDAPOID,dicomDeviceName
+1.2.840.10008.15.0.3.2,dicomDescription,LDAPOID,dicomDescription
+1.2.840.10008.15.0.3.3,dicomManufacturer,LDAPOID,dicomManufacturer
+1.2.840.10008.15.0.3.4,dicomManufacturerModelName,LDAPOID,dicomManufacturerModelName
+1.2.840.10008.15.0.3.5,dicomSoftwareVersion,LDAPOID,dicomSoftwareVersion
+1.2.840.10008.15.0.3.6,dicomVendorData,LDAPOID,dicomVendorData
+1.2.840.10008.15.0.3.7,dicomAETitle,LDAPOID,dicomAETitle
+1.2.840.10008.15.0.3.8,dicomNetworkConnectionReference,LDAPOID,dicomNetworkConnectionReference
+1.2.840.10008.15.0.3.9,dicomApplicationCluster,LDAPOID,dicomApplicationCluster
+1.2.840.10008.15.0.3.10,dicomAssociationInitiator,LDAPOID,dicomAssociationInitiator
+1.2.840.10008.15.0.3.11,dicomAssociationAcceptor,LDAPOID,dicomAssociationAcceptor
+1.2.840.10008.15.0.3.12,dicomHostname,LDAPOID,dicomHostname
+1.2.840.10008.15.0.3.13,dicomPort,LDAPOID,dicomPort
+1.2.840.10008.15.0.3.14,dicomSOPClass,LDAPOID,dicomSOPClass
+1.2.840.10008.15.0.3.15,dicomTransferRole,LDAPOID,dicomTransferRole
+1.2.840.10008.15.0.3.16,dicomTransferSyntax,LDAPOID,dicomTransferSyntax
+1.2.840.10008.15.0.3.17,dicomPrimaryDeviceType,LDAPOID,dicomPrimaryDeviceType
+1.2.840.10008.15.0.3.18,dicomRelatedDeviceReference,LDAPOID,dicomRelatedDeviceReference
+1.2.840.10008.15.0.3.19,dicomPreferredCalledAETitle,LDAPOID,dicomPreferredCalledAETitle
+1.2.840.10008.15.0.3.20,dicomTLSCyphersuite,LDAPOID,dicomTLSCyphersuite
+1.2.840.10008.15.0.3.21,dicomAuthorizedNodeCertificateReference,LDAPOID,dicomAuthorizedNodeCertificateReference
+1.2.840.10008.15.0.3.22,dicomThisNodeCertificateReference,LDAPOID,dicomThisNodeCertificateReference
+1.2.840.10008.15.0.3.23,dicomInstalled,LDAPOID,dicomInstalled
+1.2.840.10008.15.0.3.24,dicomStationName,LDAPOID,dicomStationName
+1.2.840.10008.15.0.3.25,dicomDeviceSerialNumber,LDAPOID,dicomDeviceSerialNumber
+1.2.840.10008.15.0.3.26,dicomInstitutionName,LDAPOID,dicomInstitutionName
+1.2.840.10008.15.0.3.27,dicomInstitutionAddress,LDAPOID,dicomInstitutionAddress
+1.2.840.10008.15.0.3.28,dicomInstitutionDepartmentName,LDAPOID,dicomInstitutionDepartmentName
+1.2.840.10008.15.0.3.29,dicomIssuerOfPatientID,LDAPOID,dicomIssuerOfPatientID
+1.2.840.10008.15.0.3.30,dicomPreferredCallingAETitle,LDAPOID,dicomPreferredCallingAETitle
+1.2.840.10008.15.0.3.31,dicomSupportedCharacterSet,LDAPOID,dicomSupportedCharacterSet
+1.2.840.10008.15.0.4.1,dicomConfigurationRoot,LDAPOID,dicomConfigurationRoot
+1.2.840.10008.15.0.4.2,dicomDevicesRoot,LDAPOID,dicomDevicesRoot
+1.2.840.10008.15.0.4.3,dicomUniqueAETitlesRegistryRoot,LDAPOID,dicomUniqueAETitlesRegistryRoot
+1.2.840.10008.15.0.4.4,dicomDevice,LDAPOID,dicomDevice
+1.2.840.10008.15.0.4.5,dicomNetworkAE,LDAPOID,dicomNetworkAE
+1.2.840.10008.15.0.4.6,dicomNetworkConnection,LDAPOID,dicomNetworkConnection
+1.2.840.10008.15.0.4.7,dicomUniqueAETitle,LDAPOID,dicomUniqueAETitle
+1.2.840.10008.15.0.4.8,dicomTransferCapability,LDAPOID,dicomTransferCapability
+1.2.840.10008.15.1.1,UniversalCoordinatedTime,SynchronizationFrameOfReference,Universal Coordinated Time

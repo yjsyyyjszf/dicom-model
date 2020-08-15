@@ -1,0 +1,13 @@
+/**
+ * Describes the metadata of DICOM dataset with fields based on:
+ * - the DICOM tag presented as an hexadecimal 8 characters string (ex.: 00100010) and
+ * - the short DICOM name (ex.: PatientName).
+ * All the fields are optional.
+ */
+export interface Metadata {
+{{~ it.elements :element}}{{? !element.isLinkable }}
+  // {{=element.prettyName }}
+  {{=element.keyword}}?: {{=element.returnedType}};
+  x{{=element.tag.toLowerCase()}}?: {{=element.returnedType}};
+{{?}}{{~}}
+}
